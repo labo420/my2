@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Store</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Benvenuto nel Mio Store</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Benvenuto nel Nostro Negozio Online!</h2>
+            <p>Esplora i nostri prodotti unici.</p>
+            <a href="shop.html" class="btn">Inizia a Comprare</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Store. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
